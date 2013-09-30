@@ -2,4 +2,4 @@ New-News
 ========
 
 Test
-
+-cd ~/
